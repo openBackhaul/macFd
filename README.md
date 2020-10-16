@@ -18,7 +18,7 @@
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_MAC_LAYER
 
 ### YANG File
-- to be provided
+- [MacFd_1.0.0-tsp.201016.1350+yang.1](./MacFd_1.0.0-tsp.201016.1350+yang.1.zip)
 
 ### JSON Schema
 - to be provided
