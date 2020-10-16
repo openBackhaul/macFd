@@ -6,14 +6,13 @@
 - 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- [MacFd_1.0.0-tsp.200930.1810](./MacFd_1.0.0-tsp.200930.1810.zip)
+- [MacFd_1.0.0-tsp.201016.1350](./MacFd_1.0.0-tsp.201016.1350.zip)
 
 ### Overview 
-- [MacFd_1.0.0-tsp.200930.1810+overview.1](./MacFd_1.0.0-tsp.200930.1810+overview.1.png)
+- [MacFd_1.0.0-tsp.201016.1350+overview.1](./MacFd_1.0.0-tsp.201016.1350+overview.1.png)
 
 ### GenDoc Export
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
-- [MacFd_1.0.0-tsp.200930.1810+gendoc.1](./MacFd_1.0.0-tsp.200930.1810+gendoc.1.docx)
+- [MacFd_1.0.0-tsp.201016.1350+gendoc.1](./MacFd_1.0.0-tsp.201016.1350+gendoc.1.docx)
 
 ### Augmentation Condition
 - When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_MAC_LAYER
