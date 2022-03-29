@@ -22,6 +22,7 @@
 
 ### YANG File
 - [MacFd_1.0.0-tsp.201016.1350+yang.1](./MacFd_1.0.0-tsp.201016.1350+yang.1.zip) (deprecated)
+- [MacFd_1.0.0-tsp.220328.1700+yang.1](./MacFd_1.0.0-tsp.220328.1700+yang.1.zip)
 
 ### JSON Schema
 - to be provided
