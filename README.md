@@ -2,7 +2,7 @@
 - Technology specific amendment to the ForwardingDomain class for documenting potential forwarding (Ethernet Switch) according to IEEE 802.1 .
 
 ### Branch
-- 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Introduction at Telefonica Germany
+- 1.0.0-tsi.d.t : 802.1Q-2018 based model for the Transport SDN Introduction at Telefonica Germany
 
 ### UML
 - [MacFd_1.0.0-tsi.240103.1245](./MacFd_1.0.0-tsi.240103.1245.zip)
