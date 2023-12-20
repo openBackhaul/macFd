@@ -1,23 +1,26 @@
-# lldp
-Technology specific amendment to the ControlConstruct class for LLDP according to IEEE 802.1AB
+# macFd
+- Technology specific amendment to the ForwardingDomain class for documenting potential forwarding (Ethernet Switch) according to IEEE 802.1 .
 
 ### Branch
-- 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
+- 1.0.0-tsp.d.t : 802.1Q-2018 based model for the Transport SDN Introduction at Telefonica Germany
 
 ### UML
-- [LLDP_1.0.0-tsi.240103.1245](./LLDP_1.0.0-tsi.240103.1245.zip)
+- [MacFd_1.0.0-tsi.240103.1245](./MacFd_1.0.0-tsi.240103.1245.zip)
 
 ### Overview 
-- [LLDP_1.0.0-tsi.240103.1245+overview.1](./LLDP_1.0.0-tsi.240103.1245+overview.1.png)
+- [MacFd_1.0.0-tsi.240103.1245+overview.1](./MacFd_1.0.0-tsi.240103.1245+overview.1.png)
 
 ### GenDoc Export
-- [LLDP_1.0.0-tsi.240103.1245+gendoc.1](./LLDP_1.0.0-tsi.240103.1245+gendoc.1.docx)
+- [MacFd_1.0.0-tsi.240103.1245+gendoc.1](./MacFd_1.0.0-tsi.240103.1245+gendoc.1.docx)
 
 ### Augmentation Condition
-- not required
+- When statements in Augmentation statements demand for layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_MAC_LAYER
 
 ### YANG File
-- [LLDP_1.0.0-tsi.240103.1245+yang.1](LLDP_1.0.0-tsi.240103.1245+yang.1.zip)
+- [MacFd_1.0.0-tsi.240103.1245+yang.1](./MacFd_1.0.0-tsi.240103.1245+yang.1.zip)
+
+### JSON Schema
+- to be provided
 
 ### Interface Simulator
 - to be provided
@@ -32,7 +35,7 @@ Technology specific amendment to the ControlConstruct class for LLDP according t
 - Live Network
 
 ### Open Issue List
-- [lldp/issues](../../issues)
+- [macFd/issues](../../issues)
 
 ### Comments
 ./.
