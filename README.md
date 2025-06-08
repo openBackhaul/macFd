@@ -29,7 +29,7 @@
 - to be provided
 
 ### Publication
-- Candidate for ONF TR-532 v2.0
+- Published as a part of ONF TR-532 v2.0  
 
 ### Aspired Model Classification
 - Live Network
